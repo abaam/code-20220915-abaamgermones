@@ -2,7 +2,7 @@
 Python Exam under rubeus-solutions.com
 
 # INFO 
-Basically the dummy data is in the code and sample how to use the Class
+Basically the dummy data is in the code and sample how to use the Class.
 class and its function is self explanatory but i put some simple comment 
 
 # sample result
